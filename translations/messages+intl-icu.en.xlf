@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="V7OVzE4" resname="label.one">
+        <source>label.one</source>
+        <target>One</target>
+      </trans-unit>
+      <trans-unit id="taGqV_s" resname="label.two">
+        <source>label.two</source>
+        <target>Two</target>
+      </trans-unit>
+      <trans-unit id="VQdwLzA" resname="label.three">
+        <source>label.three</source>
+        <target>Three</target>
+      </trans-unit>
+      <trans-unit id="tn9J.AC" resname="label.four">
+        <source>label.four</source>
+        <target>Four</target>
+      </trans-unit>
+      <trans-unit id="6w0qaQF" resname="label.five">
+        <source>label.five</source>
+        <target>Five</target>
+      </trans-unit>
+      <trans-unit id="zzz3Mug" resname="label.six">
+        <source>label.six</source>
+        <target>Six</target>
+      </trans-unit>
+      <trans-unit id="LpYBv3P" resname="label.seven">
+        <source>label.seven</source>
+        <target>Seven</target>
+      </trans-unit>
+      <trans-unit id="Yj9uOy4" resname="label.eight">
+        <source>label.eight</source>
+        <target>Eight</target>
+      </trans-unit>
+      <trans-unit id="N19vHMl" resname="label.nine">
+        <source>label.nine</source>
+        <target>Nine</target>
+      </trans-unit>
+      <trans-unit id="T4D54pt" resname="label.ten">
+        <source>label.ten</source>
+        <target>Ten</target>
+      </trans-unit>
+      <trans-unit id="ISaDJ4v" resname="label.eleven">
+        <source>label.eleven</source>
+        <target>Eleven</target>
+      </trans-unit>
+      <trans-unit id="59EjNac" resname="label.twelve">
+        <source>label.twelve</source>
+        <target>Twelve</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
