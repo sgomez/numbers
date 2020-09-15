@@ -8,6 +8,8 @@
       <trans-unit id="V7OVzE4" resname="label.one">
         <source>label.one</source>
         <target>One</target>
+        <note from="translation-team">The first decimal number</note>
+        <note from="ui-ux-team">The word must be capitalized</note>
       </trans-unit>
       <trans-unit id="taGqV_s" resname="label.two">
         <source>label.two</source>
