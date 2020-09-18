@@ -1,10 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="nl" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
+      <trans-unit id="V7OVzE4" resname="label.one">
+        <source>label.one</source>
+        <target>Een</target>
+        <note from="translation-team">The first decimal number</note>
+        <note from="ui-ux-team">The word must be capitalized</note>
+      </trans-unit>
+      <trans-unit id="taGqV_s" resname="label.two">
+        <source>label.two</source>
+        <target>Twee</target>
+      </trans-unit>
+      <trans-unit id="VQdwLzA" resname="label.three">
+        <source>label.three</source>
+        <target>Drie</target>
+      </trans-unit>
+      <trans-unit id="tn9J.AC" resname="label.four">
+        <source>label.four</source>
+        <target>Vier</target>
+      </trans-unit>
+      <trans-unit id="6w0qaQF" resname="label.five">
+        <source>label.five</source>
+        <target>Vijf</target>
+      </trans-unit>
+      <trans-unit id="zzz3Mug" resname="label.six">
+        <source>label.six</source>
+        <target>Zes</target>
+      </trans-unit>
+      <trans-unit id="LpYBv3P" resname="label.seven">
+        <source>label.seven</source>
+        <target>Zeven</target>
+      </trans-unit>
+      <trans-unit id="Yj9uOy4" resname="label.eight">
+        <source>label.eight</source>
+        <target>Acht</target>
+      </trans-unit>
+      <trans-unit id="N19vHMl" resname="label.nine">
+        <source>label.nine</source>
+        <target>Negen</target>
+      </trans-unit>
+      <trans-unit id="T4D54pt" resname="label.ten">
+        <source>label.ten</source>
+        <target>Tien</target>
+      </trans-unit>
+      <trans-unit id="ISaDJ4v" resname="label.eleven">
+        <source>label.eleven</source>
+        <target>Elf</target>
+      </trans-unit>
+      <trans-unit id="59EjNac" resname="label.twelve">
+        <source>label.twelve</source>
+        <target>Twaalf</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
