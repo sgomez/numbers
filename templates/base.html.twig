@@ -10,6 +10,9 @@
 <body>
 <div class="ui menu">
     <div class="ui container">
+    <div class="item">
+        {{ 'validator.test' | trans({}, 'validators') }}
+    </div>
     <div class="right menu">
         <div class="ui simple dropdown item">
             {{ app.request.locale|locale_name(app.request.locale)|u.title }} <i class="dropdown icon"></i>
